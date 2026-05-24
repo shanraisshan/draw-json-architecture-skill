@@ -1,2 +1,2 @@
-# skill-architecture-via-json
-explains any architecture in easy to understand form by graph and html driven by json
+# draw-json-architecture-skill
+a skill that explains any architecture in graph and html from 100% driven by json
